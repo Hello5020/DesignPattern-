@@ -9,6 +9,7 @@ import com.crowgzy.javadesign.IteratorCode.domain.Book;
  * @className: Main
  * @author: crowgzy
  * @date: 2022/11/10
+ * @apiNote 迭代器模式(以在书架上查看书本名字形式来模拟)
  **/
 public class Main {
     public static void main(String[] args) {
