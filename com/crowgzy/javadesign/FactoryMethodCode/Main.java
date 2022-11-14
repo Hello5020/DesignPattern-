@@ -8,6 +8,7 @@ import com.crowgzy.javadesign.FactoryMethodCode.idcard.IDCardFactory;
  * @className: Main
  * @author: crowgzy
  * @date: 2022/11/13
+ * @apiNote 工厂模式(以idCard制造过程)
  **/
 public class Main {
     public static void main(String[] args) {
