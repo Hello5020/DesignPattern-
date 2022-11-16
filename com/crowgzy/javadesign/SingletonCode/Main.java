@@ -21,6 +21,6 @@ public class Main {
         System.out.println("End.");
 
         TicketMaker ticketMaker = TicketMaker.getInstance();
-        ticketMaker.getTicket();
+        ticketMaker.getTicketNum();
     }
 }
